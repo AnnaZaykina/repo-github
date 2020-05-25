@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 task2
 task1
 
+=======
+task1
+>>>>>>> 2fe9355... task1 commit
